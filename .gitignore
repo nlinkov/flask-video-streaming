@@ -1,6 +1,7 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL files / Mac files
 __pycache__/
 *.py[cod]
+.DS_Store
 
 # C extensions
 *.so
@@ -52,3 +53,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# data folder
+data
